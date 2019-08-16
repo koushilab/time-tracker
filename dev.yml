@@ -1,0 +1,12 @@
+[ladbalancer]
+lb01
+
+[webserver]
+app01
+app02
+
+[database]
+db01
+
+[control]
+control
